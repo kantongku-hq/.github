@@ -3,7 +3,7 @@
   <img alt="Kantongku — Tahu ke mana uangmu pergi." src="https://raw.githubusercontent.com/kantongku-hq/.github/main/profile/banner-light.png">
 </picture>
 
-Kantongku is a personal expense tracker for Indonesian users, built phase by phase as an end-to-end project.
+Kantongku is a personal expense tracker for Indonesian users.
 
 | Repository | Purpose |
 |---|---|

@@ -7,9 +7,6 @@ Kantongku is a personal expense tracker for Indonesian users.
 
 | Repository | Purpose |
 |---|---|
-| [kantongku-hub](https://github.com/kantongku-hq/kantongku-hub) | Product vision, roadmap, architecture decisions, phase documents |
 | [kantongku-api](https://github.com/kantongku-hq/kantongku-api) | Backend |
 | [kantongku-web](https://github.com/kantongku-hq/kantongku-web) | Frontend |
 | [kantongku-iac](https://github.com/kantongku-hq/kantongku-iac) | Infrastructure |
-
-Documentation lives in Indonesian in the hub; code and READMEs are in English.

@@ -27,7 +27,7 @@ Conventional Commits: `<type>(<scope>): <summary>`.
 
 ## Labels
 - `type:` feature, bug, chore, docs, adr, feedback
-- `area:` api, web, iac, hub
+- `area:` api, web, iac
 
 ## Milestones and the project board
 - Milestones are named `F<phase>-M<number> <name>` and are identical across the repositories involved.
@@ -35,7 +35,6 @@ Conventional Commits: `<type>(<scope>): <summary>`.
 
 ## Language
 - Code, comments, commits, issues, pull requests, and READMEs: English.
-- Product documentation in the hub: Indonesian.
 
 ## Running locally
 Each repository's README describes how to run it from scratch.
